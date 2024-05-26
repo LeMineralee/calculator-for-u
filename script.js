@@ -11,7 +11,7 @@ function calculate() {
     if (result === 8) {
       document.getElementById('result').value = result;
     } else {
-      document.getElementById('result').value = 'i missss yopouuuuu';
+      document.getElementById('result').value = 'i missss yoouuuuu so much';
     }
   } catch (error) {
     document.getElementById('result').value = 'Error';
